@@ -1,9 +1,7 @@
-<h1 align="center">G'day Mates! I'm Creepa</h1>
+<h1 align="center">G'day Mates! I'm Nollva</h1>
 <h3 align="center">I'm a person who is addicted to coding and loves to create stuff with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcreepa&label=Profile%20views&color=0e75b6&style=flat" alt="devcreepa" /> </p>
-
-- 🤖 I’m currently working on [Duke Bot](https://duke-bot.com)
 
 - ✨ I’m currently learning **Javascript, Html/Css, and Python**
 
@@ -11,7 +9,7 @@
 
 - 🦑 I’m looking to collaborate on Websites and or Discord Bots at the moment
 
-- 🕴 For business inquiries you can reach me at **notcreepa@gmail.com** or at my Discord **@Creepa#0807**
+- 🕴 For business inquiries you can reach me at **notcreepa@gmail.com** or at my Discord **@Nollva#0807**
 
 - 💰 **I am for Hire!!**
 
